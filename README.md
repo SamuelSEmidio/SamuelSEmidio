@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou Samuel de Souza Emídio  
 
-<!--
-**SamuelSEmidio/SamuelSEmidio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Agroecólogo** com experiência em projetos de **sustentabilidade, restauração ecológica e gestão ambiental**.  
+🛰️ Apaixonado por **tecnologia aplicada ao meio ambiente**, com foco em **drones, geoprocessamento (GIS)** e monitoramento ambiental.  
+🌍 Atuei em projetos de **licenciamento ambiental, reflorestamento e recuperação de áreas degradadas**, integrando **campo + gestão documental + relatórios técnicos**.  
+💻 Interesse em **análise de dados ambientais, automação de fluxos e visualização de informações geoespaciais**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Habilidades & Ferramentas
+- Geoprocessamento: **QGIS, Google Earth, Agisoft Metashape**  
+- Operação de drones para mapeamento e agricultura de precisão  
+- Monitoramento e indicadores ambientais  
+- Gestão documental e elaboração de relatórios técnicos  
+- Programação inicial para automação e análise de dados  
+
+---
+
+📫 Vamos nos conectar:  
+[LinkedIn](www.linkedin.com/in/samuel-emídio-94a153161) | [E-mail](mailto:samuelemidio@hotmail.com)  
+
+
