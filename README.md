@@ -12,7 +12,7 @@
 - Operação de drones para mapeamento e agricultura de precisão  
 - Monitoramento e indicadores ambientais  
 - Gestão documental e elaboração de relatórios técnicos  
-- Programação inicial para automação e análise de dados  
+- Programação inicial para automação e análise de dados com utilização de Python.
 
 ---
 
